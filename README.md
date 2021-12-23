@@ -18,6 +18,10 @@ gen_loss = 6e-2 * loss_for_vgg + 1e-2 * adversarial_loss + 0.92*l2_loss
 
 ```
 
+## Weights:
+
+https://drive.google.com/drive/folders/1IC-D0jgfz51RrzLuG0bWaGSfImOJNYYL?usp=sharing
+
 ## Result
 
 #### Low Resolution Image
